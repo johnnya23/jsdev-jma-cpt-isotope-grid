@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: JMA Custom Post Type Isotope Display
+Plugin Name: JMA Custom Post Type Isotope Displays
 Description: This plugin creates a grid with isotope filtering from a custom taxonomy the default is the portfolio category of the portfolio_item cpt
 Version: 1.0
 Author: John Antonacci
